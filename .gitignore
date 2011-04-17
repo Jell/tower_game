@@ -1,0 +1,9 @@
+# devkitPRO stuff
+*.arm7
+*.arm9
+*.nds
+*.elf
+build/
+
+#vim
+*.swp

@@ -1,0 +1,12 @@
+# 8 bit bitmap
+-gB 8
+
+-pw 16
+
+# bitmap format
+-gb
+
+-gT FF00FF
+
+-ps 16
+-pe 256
